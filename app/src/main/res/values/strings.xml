@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="teama_label">TeamA</string>
+    <string name="teamb_label">TeamB</string>
+    <string name="points3_label">+3 POINTS</string>
+    <string name="points2_label">+2 POINTS</string>
+    <string name="points1_label">+1 POINT</string>
+    <string name="reset_label">RESET</string>
+</resources>
